@@ -1,0 +1,6 @@
+p {
+  border: 1px solid black;
+}
+p.item2 {
+  white-space: nowra;
+}

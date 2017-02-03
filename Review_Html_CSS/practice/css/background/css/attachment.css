@@ -1,0 +1,10 @@
+#attachment {
+position: relative;
+left: 30px;
+top: 50px;
+width: 800px;
+height: 800px;
+background-image: url(../image/google.png);
+background-attachment: local;
+overflow-y: scroll;
+}

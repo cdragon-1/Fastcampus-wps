@@ -1,0 +1,25 @@
+.float-frame {
+  width: 300px;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.float-frame::after {
+  content: "";
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+.float-unit {
+  width: 50px;
+  background: #333;
+  color: #fff;
+  font-size: 18x;
+  font-weight: bold;
+  text-align: center;
+  padding: 15px 0;
+  margin-right: 5px;
+  float: left;
+}

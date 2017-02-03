@@ -1,0 +1,27 @@
+html {
+  font-size: 16px;
+}
+body {
+  font-size: 0.9rem;
+  color: #373a3c;
+  line-height: 1.5;
+}
+table {
+  border-collapse: collapse;
+  layout: auto;
+}
+tr, td {
+  border: 1px solid black;
+  width: 300px;
+  height: 30px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+}
+li {
+  border: 1px solid black;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+}
