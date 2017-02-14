@@ -1,7 +1,7 @@
 #### Topic : Instagram Project
 
 member/models.py
-```
+```python
 from django.db import models, IntegrityError
 
 
