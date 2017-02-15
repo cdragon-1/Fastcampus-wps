@@ -201,7 +201,7 @@ u2.follower_set.all()
 역참조 확인 가능
 
 ---
-```
+```python
 from django.db import models
 
 from member.models import MyUser
