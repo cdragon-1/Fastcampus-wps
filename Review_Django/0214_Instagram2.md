@@ -150,4 +150,3 @@ class MyUser(PermissionsMixin, AbstractBaseUser):
 rm db.sqlite3
 setting에
 AUTH_USER_MODEL = 'member.MyUser' 추가
-'MyUser' has no attributes
